@@ -11,6 +11,7 @@ C , C++ , Front End Developer , Python(Basics)
 
 CONTACTS:
 Email: chaturvediprateek958@gmail.com
+
 Linkdin: Prateek Chaturvedi
 
 Lets Connect:
