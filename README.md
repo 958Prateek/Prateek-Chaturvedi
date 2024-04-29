@@ -14,5 +14,6 @@ Email: chaturvediprateek958@gmail.com
 Linkdin: Prateek Chaturvedi
 
 Lets Connect:
+
 I welcome collaboration and contribution opportunities. If you'd like to work together on a project or discuss technology-related topics, feel free to reach out.
 
